@@ -2,11 +2,10 @@
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
-The function can be used to remove Oggy and that makes the world to be a better place.
+Oggy.java intends to remove strings containing 'oggy' from a list of strings called "names".
+Might be "Oggy" creating problem for us.
+
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
-
-Don't forget to update this file after fixing the code.
+The code "removeOggy" function was not working as intended so made it worked.. Please Modify if any needed. After all Oggy is Coggy,,
