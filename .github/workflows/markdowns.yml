@@ -1,4 +1,4 @@
-name: Check markdown files
+name: Check markdown file
 
 on:
   push:
